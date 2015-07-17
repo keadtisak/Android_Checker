@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/projectv2.1.2/tutorial-3-cameracontrolGradle/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="BackGround">#CCCCCC</color>
+    <color name="Text">#000000</color>
+    <color name="text_color">#222222</color>
+    <color name="text_color1">#330066</color>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id"><enum name="any" value="-1"/><enum name="back" value="99"/><enum name="front" value="98"/></attr></declare-styleable>
+    <!-- From: file:/D:/android/projectv2.1.2/tutorial-3-cameracontrolGradle/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="main_screen_side_padding">10dp</dimen>
+    <dimen name="menu_text_size">24sp</dimen>
+    <dimen name="text_top_padding">25dp</dimen>
+    <dimen name="title_text_size">26sp</dimen>
+    <dimen name="tool_bar_height">56dp</dimen>
+    <dimen name="tool_bar_text_size">22sp</dimen>
+    <!-- From: file:/D:/android/projectv2.1.2/tutorial-3-cameracontrolGradle/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="About">About</string>
+    <string name="BackHome">Back Home</string>
+    <string name="Help">Help</string>
+    <string name="app_name">Smartphone Android Choice Checking System </string>
+    <string name="check">ตั้งค่าการตรวจคำตอบ</string>
+    <string name="download">download</string>
+    <string name="exam">ตรวจข้อสอบ</string>
+    <string name="head"/>
+    <string name="hello">MainActivity</string>
+    <string name="paper">กระดาษคำตอบ</string>
+    <string name="result">ผลคะแนน</string>
+    <string name="setchioce">จำนวนคำตอบ:</string>
+    <string name="text">ผู้จัดทำ</string>
+    <string name="text1">1.นายเกียรติศักดิ์  ไชยวาลย์ 55023241</string>
+    <string name="text10">3.เมื่อระบบประมวลผลเสร็จสิ้นจะแสดงข้อความผลคะแนนให้ทราบ</string>
+    <string name="text11">ขั้นตอนการกำหนดกระดาษเฉลย</string>
+    <string name="text12">1.ต้องกากบาทรหัสประจำตัวเป็น00000000เท่านั้น</string>
+    <string name="text13">วิธีดาวน์โหลดกระดาษข้อสอบ</string>
+    <string name="text14">1.ดาวน์โหลดจากเมนูกระดาษคำตอบ</string>
+    <string name="text15"/>
+    <string name="text2">2.นางสาวพรพิไล  แย้มชุมพร 55023454</string>
+    <string name="text3">อาจารย์ที่ปรึกษา</string>
+    <string name="text4">นายวัฒนพงศ์ สุทธภักดิ์</string>
+    <string name="text6">สาขาวิศวกรรมซอฟต์แวร์</string>
+    <string name="text7">วิธีใช้งาน</string>
+    <string name="text8">1.ถ่ายภาพกระดาษเฉลยก่อนเสมอโดยให้เส้นขอบที่มาร์คขนานกับรูปดังภาพ</string>
+    <string name="text9">2.จากนั้นถ่ายภาพกระดาษคำตอบเช่นเดียวกับขั้นตอนก่อนหน้า</string>
+</resources>

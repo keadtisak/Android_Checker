@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+
+    <item
+        android:id="@+id/exam"
+        android:title="@string/exam"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item
+    android:id="@+id/result"
+    android:title="@string/result"
+    android:icon="@android:drawable/ic_delete"
+    android:showAsAction="ifRoom|withText"
+
+
+    />
+
+
+    <item
+        android:id="@+id/paper"
+        android:title="@string/paper"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:showAsAction="ifRoom|withText"
+        />
+    <item
+        android:id="@+id/help"
+        android:title="@string/Help"
+        android:icon="@android:drawable/ic_menu_help"
+        android:showAsAction="ifRoom|withText"
+        />
+    <item
+        android:id="@+id/about"
+        android:title="@string/About"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:showAsAction="ifRoom|withText"
+        />
+
+
+</menu>
+
+<!-- From: file:/D:/android/projectv2.1.2/tutorial-3-cameracontrolGradle/app/src/main/res/layout/mymenu.xml -->

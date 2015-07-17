@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\ffmpeg-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="240316f8901cabf84287e1f3795dea9f4a351dd9">
+        <dex dex="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\ffmpeg-android-arm-aa240cb141cbe00f8eef5eb184fc7351626800f8.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\ffmpeg-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="240316f8901cabf84287e1f3795dea9f4a351dd9">
+        <dex dex="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\ffmpeg-android-arm-bdeb0870aa4a0e983ce0c2b84ee392d3ba26be12.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\build\intermediates\exploded-aar\tutorial-3-cameracontrolGradle\openCVLibrary2410\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23582f656e8fbfc3d9365c5cd3ccda1f5e89f2fd">
+        <dex dex="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\classes-ffdfc12532430fdea474963b9dab49b91fdd6be1.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacpp.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab9bbc5ce993e3283007c9214d780f82a2ee9042">
+        <dex dex="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacpp-da2ffd66b4c56ec726a4dcf80f77dffbea54790f.jar" />
+    </item>
+    <item
+        jar="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacpp.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab9bbc5ce993e3283007c9214d780f82a2ee9042">
+        <dex dex="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacpp-56424f2da4b81179fff849d40f61e6a975db3855.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e41a26d942a9f0d0a805b7188f323ea392ad0f3">
+        <dex dex="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-5672f6898b461113fc75765d9f941afeab0202ae.jar" />
+    </item>
+    <item
+        jar="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\build\intermediates\exploded-aar\tutorial-3-cameracontrolGradle\openCVLibrary2410\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="265c1b740925350863f3997cbb344f99b8a877dd">
+        <dex dex="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\classes-5c2962fa52c6808ee3cd18b982a828e5f6535955.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e41a26d942a9f0d0a805b7188f323ea392ad0f3">
+        <dex dex="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-49557838296a8a21ac68feb56b419ce934abf517.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\ffmpeg-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="240316f8901cabf84287e1f3795dea9f4a351dd9">
+        <dex dex="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\ffmpeg-android-arm-171d0e264546d4657614a67088c8c12327bdda4c.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb2b79e7af7f947ac5574af0796cb742a2b62035">
+        <dex dex="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-android-arm-d6285e35ae5acfd9c96d8b591aef716649f934c1.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a3214e5ab6b7497a1d0ca422ded327ed3fe3043">
+        <dex dex="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacv-113774027743bfa04b54e03621caa2ee356fd2a7.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacpp.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab9bbc5ce993e3283007c9214d780f82a2ee9042">
+        <dex dex="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacpp-4f06c25fc7ebe4ce146965ba47896f3e587cd9c4.jar" />
+    </item>
+    <item
+        jar="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\ffmpeg-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="240316f8901cabf84287e1f3795dea9f4a351dd9">
+        <dex dex="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\ffmpeg-android-arm-e0602de09be89d5206e68e5382cb105b82500ae0.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacpp.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab9bbc5ce993e3283007c9214d780f82a2ee9042">
+        <dex dex="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacpp-381cc936047efeba4c1df79ebc7405a66e17047f.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb2b79e7af7f947ac5574af0796cb742a2b62035">
+        <dex dex="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-android-arm-847d70993de77b4560803ac25d884a99fcf50d38.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb2b79e7af7f947ac5574af0796cb742a2b62035">
+        <dex dex="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-android-arm-95a277713a549a3f777b86f570b2d4c99d0e8d8e.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\build\intermediates\exploded-aar\tutorial-3-cameracontrolGradle\openCVLibrary2410\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ff6ee96774c71a741c06bbf80bf6f9b0739164f5">
+        <dex dex="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\classes-4abdfdf9d6ec52f411538180722c584836a2ca5c.jar" />
+    </item>
+    <item
+        jar="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e41a26d942a9f0d0a805b7188f323ea392ad0f3">
+        <dex dex="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-930690ecbe00f092e4f7adad1d22cec1eb0f4eaf.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e41a26d942a9f0d0a805b7188f323ea392ad0f3">
+        <dex dex="D:\android\projectv2.1.0\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-618f890d744b5cf6900f0822dca28927706e17f5.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\build\intermediates\exploded-aar\tutorial-3-cameracontrolGradle\openCVLibrary2410\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="850cd8d0f3028f083027fcb5236631a17f23e9fe">
+        <dex dex="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\classes-3ba284114f052d2f62b7fc84de8201c02b9a9966.jar" />
+    </item>
+    <item
+        jar="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a3214e5ab6b7497a1d0ca422ded327ed3fe3043">
+        <dex dex="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacv-cd22ca39c4a1fff43de9e5661b25ad2d906d1f24.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a3214e5ab6b7497a1d0ca422ded327ed3fe3043">
+        <dex dex="D:\android\projectv2.1.2\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacv-0f8d12a86e32c933ec4340336c9151fa2a133935.jar" />
+    </item>
+    <item
+        jar="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\javacv.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a3214e5ab6b7497a1d0ca422ded327ed3fe3043">
+        <dex dex="D:\android\projectv2.1.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\javacv-b8d154844dfd41b16074ade6238f763fdc3e00fa.jar" />
+    </item>
+    <item
+        jar="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\src\main\jniLibs\opencv-android-arm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb2b79e7af7f947ac5574af0796cb742a2b62035">
+        <dex dex="Q:\projectv2.0.1\tutorial-3-cameracontrolGradle\app\build\intermediates\pre-dexed\debug\opencv-android-arm-fe19fd1523e20fe71b7702a5b8bab691fb68e753.jar" />
+    </item>
+
+</items>
